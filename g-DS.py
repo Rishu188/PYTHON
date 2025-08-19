@@ -151,6 +151,14 @@ for i in a:
 
 # print(d)
 
+
+
+"""DICTIONARY"""
+# Mutable
+# Duplicate
+# Order
+# Heterogenous
+
 # d = {10:100,20:200,30:300,40:400}
 
 # print(d.items())
@@ -172,11 +180,6 @@ for i in a:
 
 # print(sum)
 
-"""DICTIONARY"""
-# Mutable
-# Duplicate
-# Order
-# Heterogenous
 # a = [1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8]
 
 # d = {}
